@@ -1,2 +1,2 @@
 # ExpenseAppDemo
-Expense iOS App Demo build in SwiftUI
+Expense iOS App build using SwiftUI and SwiftData
